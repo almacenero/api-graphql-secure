@@ -1,0 +1,24 @@
+{
+  "name": "api-graphql-secure",
+  "version": "1.0.0",
+  "description": "graphl apopllo server jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almacenero/api-graphql-secure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almacenero/api-graphql-secure/issues"
+  },
+  "homepage": "https://github.com/almacenero/api-graphql-secure#readme",
+  "dependencies": {
+    "@apollo/server": "^4.5.0",
+    "graphql": "^16.6.0"
+  }
+}
